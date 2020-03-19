@@ -16,6 +16,12 @@ public class TipoVariable {
         var saludar = "Hola";
         //para separar y tener espacio
         System.out.println(saludar + "  " + usuario);
+        //concatenar variable numero
+        var i = 5;
+        var j = 3;
+        System.out.println(i + j);
+        //agregar tipo text y numero en las variables
+        System.out.println(i + j + ": La Suma es");
         
     }
 }
