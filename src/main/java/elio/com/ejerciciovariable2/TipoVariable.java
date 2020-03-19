@@ -14,8 +14,8 @@ public class TipoVariable {
         //concatenar variables var
         var usuario = "Elio";
         var saludar = "Hola";
-        
-        System.out.println(saludar + usuario);
+        //para separar y tener espacio
+        System.out.println(saludar + "  " + usuario);
         
     }
 }
